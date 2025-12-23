@@ -2015,6 +2015,28 @@
           "value": "{color.zinc.900}",
           "type": "color"
         }
+      },
+      "neutral": {
+        "page": {
+          "value": "{surface.neutral.base}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{color.zinc.50}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{color.static.white}",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{color.zinc.100}",
+          "type": "color"
+        },
+        "scrim": {
+          "value": "{color.zinc.900}",
+          "type": "color"
+        }
       }
     },
     "text": {
@@ -2139,6 +2161,28 @@
         },
         "contrast": {
           "value": "{color.zinc.100}",
+          "type": "color"
+        },
+        "scrim": {
+          "value": "{color.zinc.900}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "page": {
+          "value": "{surface.neutral.base}",
+          "type": "color"
+        },
+        "base": {
+          "value": "{color.zinc.900}",
+          "type": "color"
+        },
+        "container": {
+          "value": "{color.zinc.800}",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{color.zinc.700}",
           "type": "color"
         },
         "scrim": {
