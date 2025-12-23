@@ -1,0 +1,26 @@
+{
+  "name": "solitude-design-token-library",
+  "version": "1.0.0",
+  "description": "Design token library for Solitude — an open-source design system focused on consistency, scalability, and thoughtful UI foundations. Built to bridge design and code using tokens as a single source of truth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanoelviana/solitude-design-token-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/emanoelviana/solitude-design-token-library/issues"
+  },
+  "homepage": "https://github.com/emanoelviana/solitude-design-token-library#readme",
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "style-dictionary": "^5.1.1"
+  }
+}
