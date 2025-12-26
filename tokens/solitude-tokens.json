@@ -282,266 +282,266 @@
       },
       "weight": {
         "regular": {
-          "value": "25rem",
-          "type": "dimension"
+          "value": 400,
+          "type": "number"
         },
         "medium": {
-          "value": "31.25rem",
-          "type": "dimension"
+          "value": 500,
+          "type": "number"
         },
         "semibold": {
-          "value": "37.5rem",
-          "type": "dimension"
+          "value": 600,
+          "type": "number"
         },
         "bold": {
-          "value": "43.75rem",
-          "type": "dimension"
+          "value": 700,
+          "type": "number"
         }
       },
       "height": {
         "0": {
-          "value": "0rem",
-          "type": "dimension"
+          "value": 0,
+          "type": "number"
         },
         "12": {
-          "value": "0.75rem",
-          "type": "dimension"
+          "value": 12,
+          "type": "number"
         },
         "14": {
-          "value": "0.875rem",
-          "type": "dimension"
+          "value": 14,
+          "type": "number"
         },
         "16": {
-          "value": "1rem",
-          "type": "dimension"
+          "value": 16,
+          "type": "number"
         },
         "20": {
-          "value": "1.25rem",
-          "type": "dimension"
+          "value": 20,
+          "type": "number"
         },
         "24": {
-          "value": "1.5rem",
-          "type": "dimension"
+          "value": 24,
+          "type": "number"
         },
         "28": {
-          "value": "1.75rem",
-          "type": "dimension"
+          "value": 28,
+          "type": "number"
         },
         "32": {
-          "value": "2rem",
-          "type": "dimension"
+          "value": 32,
+          "type": "number"
         },
         "40": {
-          "value": "2.5rem",
-          "type": "dimension"
+          "value": 40,
+          "type": "number"
         },
         "48": {
-          "value": "3rem",
-          "type": "dimension"
+          "value": 48,
+          "type": "number"
         },
         "56": {
-          "value": "3.5rem",
-          "type": "dimension"
+          "value": 56,
+          "type": "number"
         },
         "64": {
-          "value": "4rem",
-          "type": "dimension"
+          "value": 64,
+          "type": "number"
         },
         "72": {
-          "value": "4.5rem",
-          "type": "dimension"
+          "value": 72,
+          "type": "number"
         },
         "80": {
-          "value": "5rem",
-          "type": "dimension"
+          "value": 80,
+          "type": "number"
         }
       },
       "size": {
         "8": {
-          "value": "0.5rem",
-          "type": "dimension"
+          "value": 8,
+          "type": "number"
         },
         "12": {
-          "value": "0.75rem",
-          "type": "dimension"
+          "value": 12,
+          "type": "number"
         },
         "14": {
-          "value": "0.875rem",
-          "type": "dimension"
+          "value": 14,
+          "type": "number"
         },
         "16": {
-          "value": "1rem",
-          "type": "dimension"
+          "value": 16,
+          "type": "number"
         },
         "18": {
-          "value": "1.125rem",
-          "type": "dimension"
+          "value": 18,
+          "type": "number"
         },
         "20": {
-          "value": "1.25rem",
-          "type": "dimension"
+          "value": 20,
+          "type": "number"
         },
         "24": {
-          "value": "1.5rem",
-          "type": "dimension"
+          "value": 24,
+          "type": "number"
         },
         "32": {
-          "value": "2rem",
-          "type": "dimension"
+          "value": 32,
+          "type": "number"
         },
         "40": {
-          "value": "2.5rem",
-          "type": "dimension"
+          "value": 40,
+          "type": "number"
         },
         "48": {
-          "value": "3rem",
-          "type": "dimension"
+          "value": 48,
+          "type": "number"
         },
         "56": {
-          "value": "3.5rem",
-          "type": "dimension"
+          "value": 56,
+          "type": "number"
         },
         "72": {
-          "value": "4.5rem",
-          "type": "dimension"
+          "value": 72,
+          "type": "number"
         }
       },
       "tracking": {
         "tight": {
-          "value": "-0.005rem",
-          "type": "dimension"
+          "value": -0.08,
+          "type": "number"
         },
         "tighter": {
-          "value": "-0.015rem",
-          "type": "dimension"
+          "value": -0.24,
+          "type": "number"
         },
         "loose": {
-          "value": "0.005rem",
-          "type": "dimension"
+          "value": 0.08,
+          "type": "number"
         },
         "neutral": {
-          "value": "0rem",
-          "type": "dimension"
+          "value": 0,
+          "type": "number"
         },
         "looser": {
-          "value": "0.015rem",
-          "type": "dimension"
+          "value": 0.24,
+          "type": "number"
         },
         "tightest": {
-          "value": "-0.025rem",
-          "type": "dimension"
+          "value": -0.4,
+          "type": "number"
         },
         "loosest": {
-          "value": "0.025rem",
-          "type": "dimension"
+          "value": 0.4,
+          "type": "number"
         }
       }
     },
     "dimension": {
       "5": {
-        "value": "0.125rem",
-        "type": "dimension"
+        "value": 2,
+        "type": "number"
       },
       "25": {
-        "value": "0.25rem",
-        "type": "dimension"
+        "value": 4,
+        "type": "number"
       },
       "50": {
-        "value": "0.5rem",
-        "type": "dimension"
+        "value": 8,
+        "type": "number"
       },
       "75": {
-        "value": "0.75rem",
-        "type": "dimension"
+        "value": 12,
+        "type": "number"
       },
       "100": {
-        "value": "1rem",
-        "type": "dimension"
+        "value": 16,
+        "type": "number"
       },
       "200": {
-        "value": "1.5rem",
-        "type": "dimension"
+        "value": 24,
+        "type": "number"
       },
       "300": {
-        "value": "2rem",
-        "type": "dimension"
+        "value": 32,
+        "type": "number"
       },
       "400": {
-        "value": "2.5rem",
-        "type": "dimension"
+        "value": 40,
+        "type": "number"
       },
       "500": {
-        "value": "3rem",
-        "type": "dimension"
+        "value": 48,
+        "type": "number"
       },
       "600": {
-        "value": "3.5rem",
-        "type": "dimension"
+        "value": 56,
+        "type": "number"
       },
       "700": {
-        "value": "4rem",
-        "type": "dimension"
+        "value": 64,
+        "type": "number"
       },
       "800": {
-        "value": "4.5rem",
-        "type": "dimension"
+        "value": 72,
+        "type": "number"
       },
       "900": {
-        "value": "5rem",
-        "type": "dimension"
+        "value": 80,
+        "type": "number"
       },
       "950": {
-        "value": "6rem",
-        "type": "dimension"
+        "value": 96,
+        "type": "number"
       }
     },
     "border": {
       "width": {
         "0": {
-          "value": "0rem",
-          "type": "dimension"
+          "value": 0,
+          "type": "number"
         },
         "1": {
-          "value": "0.063rem",
-          "type": "dimension"
+          "value": 1,
+          "type": "number"
         },
         "2": {
-          "value": "0.125rem",
-          "type": "dimension"
+          "value": 2,
+          "type": "number"
         },
         "4": {
-          "value": "0.25rem",
-          "type": "dimension"
+          "value": 4,
+          "type": "number"
         }
       },
       "radius": {
         "none": {
-          "value": "0rem",
-          "type": "dimension"
+          "value": 0,
+          "type": "number"
         },
         "xs": {
-          "value": "0.25rem",
-          "type": "dimension"
+          "value": 4,
+          "type": "number"
         },
         "sm": {
-          "value": "0.5rem",
-          "type": "dimension"
+          "value": 8,
+          "type": "number"
         },
         "md": {
-          "value": "0.75rem",
-          "type": "dimension"
+          "value": 12,
+          "type": "number"
         },
         "lg": {
-          "value": "1rem",
-          "type": "dimension"
+          "value": 16,
+          "type": "number"
         },
         "xl": {
-          "value": "1.5rem",
-          "type": "dimension"
+          "value": 24,
+          "type": "number"
         },
         "full": {
-          "value": "62.438rem",
-          "type": "dimension"
+          "value": 999,
+          "type": "number"
         }
       }
     }
@@ -610,15 +610,15 @@
         "secondary": {
           "background": {
             "rest": {
-              "value": "{color.bloom.500}",
+              "value": "{color.midnight.200}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.bloom.600}",
+              "value": "{color.midnight.100}",
               "type": "color"
             },
             "active": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.50}",
               "type": "color"
             },
             "disabled": {
@@ -748,15 +748,15 @@
           },
           "border": {
             "rest": {
-              "value": "{color.bloom.200}",
+              "value": "{color.midnight.200}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.400}",
               "type": "color"
             },
             "active": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.100}",
               "type": "color"
             },
             "disabled": {
@@ -990,15 +990,15 @@
         "secondary": {
           "background": {
             "rest": {
-              "value": "{color.bloom.500}",
+              "value": "{color.midnight.200}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.bloom.600}",
+              "value": "{color.midnight.700}",
               "type": "color"
             },
             "active": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.100}",
               "type": "color"
             },
             "disabled": {
@@ -1128,15 +1128,15 @@
           },
           "border": {
             "rest": {
-              "value": "{color.bloom.200}",
+              "value": "{color.midnight.100}",
               "type": "color"
             },
             "hover": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.600}",
               "type": "color"
             },
             "active": {
-              "value": "{color.bloom.400}",
+              "value": "{color.midnight.200}",
               "type": "color"
             },
             "disabled": {
@@ -2551,124 +2551,124 @@
   "semantic-breakpoint/desktop": {
     "smallest": {
       "width": {
-        "value": "64rem",
-        "type": "dimension"
+        "value": 1024,
+        "type": "number"
       },
       "height": {
-        "value": "48rem",
-        "type": "dimension"
+        "value": 768,
+        "type": "number"
       }
     },
     "small": {
       "width": {
-        "value": "80rem",
-        "type": "dimension"
+        "value": 1280,
+        "type": "number"
       },
       "height": {
-        "value": "45rem",
-        "type": "dimension"
+        "value": 720,
+        "type": "number"
       }
     },
     "medium": {
       "width": {
-        "value": "85.375rem",
-        "type": "dimension"
+        "value": 1366,
+        "type": "number"
       },
       "height": {
-        "value": "48rem",
-        "type": "dimension"
+        "value": 768,
+        "type": "number"
       }
     },
     "large": {
       "width": {
-        "value": "120rem",
-        "type": "dimension"
+        "value": 1920,
+        "type": "number"
       },
       "height": {
-        "value": "67.5rem",
-        "type": "dimension"
+        "value": 1080,
+        "type": "number"
       }
     },
     "extra-large": {
       "width": {
-        "value": "160rem",
-        "type": "dimension"
+        "value": 2560,
+        "type": "number"
       },
       "height": {
-        "value": "90rem",
-        "type": "dimension"
+        "value": 1440,
+        "type": "number"
       }
     },
     "extra-extra-large": {
       "width": {
-        "value": "240rem",
-        "type": "dimension"
+        "value": 3840,
+        "type": "number"
       },
       "height": {
-        "value": "135rem",
-        "type": "dimension"
+        "value": 2160,
+        "type": "number"
       }
     }
   },
   "semantic-breakpoint/mobile": {
     "smallest": {
       "width": {
-        "value": "20rem",
-        "type": "dimension"
+        "value": 320,
+        "type": "number"
       },
       "height": {
-        "value": "35.5rem",
-        "type": "dimension"
+        "value": 568,
+        "type": "number"
       }
     },
     "small": {
       "width": {
-        "value": "22.5rem",
-        "type": "dimension"
+        "value": 360,
+        "type": "number"
       },
       "height": {
-        "value": "40rem",
-        "type": "dimension"
+        "value": 640,
+        "type": "number"
       }
     },
     "medium": {
       "width": {
-        "value": "24.375rem",
-        "type": "dimension"
+        "value": 390,
+        "type": "number"
       },
       "height": {
-        "value": "52.75rem",
-        "type": "dimension"
+        "value": 844,
+        "type": "number"
       }
     },
     "large": {
       "width": {
-        "value": "27.5rem",
-        "type": "dimension"
+        "value": 440,
+        "type": "number"
       },
       "height": {
-        "value": "59.75rem",
-        "type": "dimension"
+        "value": 956,
+        "type": "number"
       }
     },
     "extra-large": {
       "width": {
-        "value": "48rem",
-        "type": "dimension"
+        "value": 768,
+        "type": "number"
       },
       "height": {
-        "value": "64rem",
-        "type": "dimension"
+        "value": 1024,
+        "type": "number"
       }
     },
     "extra-extra-large": {
       "width": {
-        "value": "52.125rem",
-        "type": "dimension"
+        "value": 834,
+        "type": "number"
       },
       "height": {
-        "value": "69.5rem",
-        "type": "dimension"
+        "value": 1112,
+        "type": "number"
       }
     }
   },
