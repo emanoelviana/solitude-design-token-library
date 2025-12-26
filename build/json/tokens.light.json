@@ -243,6 +243,58 @@
     "disabled": "#eaeaec",
     "brand": "#91a3f3"
   },
+  "typography": {
+    "family": {
+      "sans": "General Sans"
+    },
+    "weight": {
+      "light": "light",
+      "regular": "regular",
+      "medium": "medium",
+      "semibold": "semibold",
+      "bold": "bold",
+      "extralight": "extralight"
+    },
+    "height": {
+      "0": "0rem",
+      "12": "0.75rem",
+      "14": "0.875rem",
+      "16": "1rem",
+      "20": "1.25rem",
+      "24": "1.5rem",
+      "28": "1.75rem",
+      "32": "2rem",
+      "40": "2.5rem",
+      "48": "3rem",
+      "56": "3.5rem",
+      "64": "4rem",
+      "72": "4.5rem",
+      "80": "5rem"
+    },
+    "size": {
+      "8": "0.5rem",
+      "12": "0.75rem",
+      "14": "0.875rem",
+      "16": "1rem",
+      "18": "1.125rem",
+      "20": "1.25rem",
+      "24": "1.5rem",
+      "32": "2rem",
+      "40": "2.5rem",
+      "48": "3rem",
+      "56": "3.5rem",
+      "72": "4.5rem"
+    },
+    "tracking": {
+      "tight": "-0.005rem",
+      "tighter": "-0.015rem",
+      "loose": "0.005rem",
+      "neutral": "0rem",
+      "looser": "0.015rem",
+      "tightest": "-0.025rem",
+      "loosest": "0.025rem"
+    }
+  },
   "button": {
     "filled": {
       "primary": {
@@ -372,7 +424,7 @@
     },
     "small": {
       "family": "General Sans",
-      "weight": "37.5rem",
+      "weight": "medium",
       "height": "0.75rem",
       "tracking": "0rem",
       "size": "0.75rem"
@@ -382,11 +434,11 @@
       "tracking": "0rem",
       "height": "1rem",
       "size": "1rem",
-      "weight": "37.5rem"
+      "weight": "medium"
     },
     "medium": {
       "family": "General Sans",
-      "weight": "37.5rem",
+      "weight": "medium",
       "height": "0.875rem",
       "tracking": "0rem",
       "size": "0.875rem"
@@ -436,11 +488,11 @@
       "size": "1.5rem",
       "height": "2rem",
       "tracking": "0.005rem",
-      "weight": "37.5rem"
+      "weight": "medium"
     },
     "large": {
       "family": "General Sans",
-      "weight": "37.5rem",
+      "weight": "medium",
       "height": "2.5rem",
       "tracking": "0.015rem",
       "size": "2rem"
@@ -448,7 +500,7 @@
     "small": {
       "family": "General Sans",
       "tracking": "0.005rem",
-      "weight": "37.5rem",
+      "weight": "medium",
       "size": "1.25rem",
       "height": "1.75rem"
     }
@@ -457,13 +509,13 @@
     "small": {
       "family": "General Sans",
       "tracking": "-0.005rem",
-      "weight": "31.25rem",
+      "weight": "medium",
       "height": "0rem",
       "size": "0.5rem"
     },
     "large": {
       "family": "General Sans",
-      "weight": "31.25rem",
+      "weight": "medium",
       "height": "1.25rem",
       "size": "0.875rem",
       "tracking": "-0.015rem"
@@ -472,7 +524,7 @@
       "family": "General Sans",
       "size": "0.75rem",
       "height": "1rem",
-      "weight": "31.25rem",
+      "weight": "medium",
       "tracking": "-0.015rem"
     }
   },
@@ -480,7 +532,7 @@
     "large": {
       "family": "General Sans",
       "tracking": "0.005rem",
-      "weight": "25rem",
+      "weight": "regular",
       "height": "1.75rem",
       "size": "1.125rem"
     },
@@ -488,7 +540,7 @@
       "family": "General Sans",
       "tracking": "0.005rem",
       "size": "0.875rem",
-      "weight": "25rem",
+      "weight": "regular",
       "height": "1.25rem"
     },
     "medium": {
@@ -496,13 +548,13 @@
       "height": "1.5rem",
       "size": "1rem",
       "tracking": "0.005rem",
-      "weight": "25rem"
+      "weight": "regular"
     }
   },
   "display": {
     "large": {
       "family": "General Sans",
-      "weight": "43.75rem",
+      "weight": "medium",
       "size": "3.5rem",
       "height": "4rem",
       "tracking": "-0.015rem"
@@ -510,13 +562,13 @@
     "small": {
       "family": "General Sans",
       "size": "2.5rem",
-      "weight": "43.75rem",
+      "weight": "medium",
       "height": "3rem",
       "tracking": "-0.015rem"
     },
     "medium": {
       "family": "General Sans",
-      "weight": "43.75rem",
+      "weight": "medium",
       "size": "3rem",
       "height": "3.5rem",
       "tracking": "-0.015rem"
@@ -526,13 +578,13 @@
     "large": {
       "family": "General Sans",
       "tracking": "0rem",
-      "weight": "37.5rem",
+      "weight": "medium",
       "height": "1.75rem",
       "size": "1.125rem"
     },
     "small": {
       "family": "General Sans",
-      "weight": "37.5rem",
+      "weight": "medium",
       "height": "1.25rem",
       "size": "0.875rem",
       "tracking": "0rem"
@@ -541,7 +593,7 @@
       "family": "General Sans",
       "tracking": "0rem",
       "height": "1.5rem",
-      "weight": "37.5rem",
+      "weight": "medium",
       "size": "1rem"
     }
   },
