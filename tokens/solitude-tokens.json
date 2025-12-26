@@ -554,28 +554,28 @@
       },
       "weight": {
         "light": {
-          "value": "light",
-          "type": "text"
+          "value": "18.75rem",
+          "type": "dimension"
         },
         "regular": {
-          "value": "regular",
-          "type": "text"
+          "value": "25rem",
+          "type": "dimension"
         },
         "medium": {
-          "value": "medium",
-          "type": "text"
+          "value": "31.25rem",
+          "type": "dimension"
         },
         "semibold": {
-          "value": "semibold",
-          "type": "text"
+          "value": "37.5rem",
+          "type": "dimension"
         },
         "bold": {
-          "value": "bold",
-          "type": "text"
+          "value": "43.75rem",
+          "type": "dimension"
         },
         "extralight": {
-          "value": "extralight",
-          "type": "text"
+          "value": "12.5rem",
+          "type": "dimension"
         }
       },
       "height": {
@@ -1988,8 +1988,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         }
       },
       "large": {
@@ -1998,8 +1998,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "height": {
           "value": "{typography.height.40}",
@@ -2024,8 +2024,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.20}",
@@ -2180,8 +2180,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.72}",
@@ -2206,8 +2206,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "height": {
           "value": "{typography.height.48}",
@@ -2224,8 +2224,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.56}",
@@ -2398,8 +2398,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         }
       },
       "large": {
@@ -2408,8 +2408,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "height": {
           "value": "{typography.height.40}",
@@ -2434,8 +2434,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.20}",
@@ -2590,8 +2590,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.56}",
@@ -2616,8 +2616,8 @@
           "type": "dimension"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "height": {
           "value": "{typography.height.48}",
@@ -2634,8 +2634,8 @@
           "type": "text"
         },
         "weight": {
-          "value": "{typography.weight.medium}",
-          "type": "text"
+          "value": "{typography.weight.semibold}",
+          "type": "dimension"
         },
         "size": {
           "value": "{typography.size.48}",
