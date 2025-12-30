@@ -619,6 +619,10 @@
           "value": "3rem",
           "type": "dimension"
         },
+        "52": {
+          "value": "3.25rem",
+          "type": "dimension"
+        },
         "56": {
           "value": "3.5rem",
           "type": "dimension"
@@ -2202,7 +2206,7 @@
           "type": "text"
         },
         "size": {
-          "value": "{typography.size.40}",
+          "value": "{typography.size.48}",
           "type": "dimension"
         },
         "weight": {
@@ -2210,11 +2214,11 @@
           "type": "dimension"
         },
         "height": {
-          "value": "{typography.height.48}",
+          "value": "{typography.height.52}",
           "type": "dimension"
         },
         "tracking": {
-          "value": "{typography.tracking.tighter}",
+          "value": "{typography.tracking.tight}",
           "type": "dimension"
         }
       },
@@ -2624,7 +2628,7 @@
           "type": "dimension"
         },
         "tracking": {
-          "value": "{typography.tracking.tighter}",
+          "value": "{typography.tracking.tight}",
           "type": "dimension"
         }
       },
@@ -2642,11 +2646,11 @@
           "type": "dimension"
         },
         "height": {
-          "value": "{typography.height.56}",
+          "value": "{typography.height.52}",
           "type": "dimension"
         },
         "tracking": {
-          "value": "{typography.tracking.tighter}",
+          "value": "{typography.tracking.tight}",
           "type": "dimension"
         }
       }
