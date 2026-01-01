@@ -248,12 +248,12 @@
       "sans": "General Sans"
     },
     "weight": {
-      "light": "light",
-      "regular": "regular",
-      "medium": "medium",
-      "semibold": "semibold",
-      "bold": "bold",
-      "extralight": "extralight"
+      "light": "18.75rem",
+      "regular": "25rem",
+      "medium": "31.25rem",
+      "semibold": "37.5rem",
+      "bold": "43.75rem",
+      "extralight": "12.5rem"
     },
     "height": {
       "0": "0rem",
@@ -266,6 +266,7 @@
       "32": "2rem",
       "40": "2.5rem",
       "48": "3rem",
+      "52": "3.25rem",
       "56": "3.5rem",
       "64": "4rem",
       "72": "4.5rem",
@@ -424,7 +425,7 @@
     },
     "small": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "0.75rem",
       "tracking": "0rem",
       "size": "0.75rem"
@@ -434,11 +435,11 @@
       "tracking": "0rem",
       "height": "1rem",
       "size": "1rem",
-      "weight": "medium"
+      "weight": "31.25rem"
     },
     "medium": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "0.875rem",
       "tracking": "0rem",
       "size": "0.875rem"
@@ -468,13 +469,15 @@
     "brand": "#0a2499",
     "subtle": "#60626c",
     "disabled": "#c9cacf",
-    "base": "#111113"
+    "base": "#111113",
+    "muted": "#80828a"
   },
   "text": {
     "base": "#111113",
     "subtle": "#60626c",
     "disabled": "#c9cacf",
-    "brand": "#0a2499"
+    "brand": "#0a2499",
+    "muted": "#80828a"
   },
   "background": {
     "base": "#eaeaec",
@@ -488,11 +491,11 @@
       "size": "1.5rem",
       "height": "2rem",
       "tracking": "0.005rem",
-      "weight": "medium"
+      "weight": "37.5rem"
     },
     "large": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "37.5rem",
       "height": "2.5rem",
       "tracking": "0.015rem",
       "size": "2rem"
@@ -500,7 +503,7 @@
     "small": {
       "family": "General Sans",
       "tracking": "0.005rem",
-      "weight": "medium",
+      "weight": "37.5rem",
       "size": "1.25rem",
       "height": "1.75rem"
     }
@@ -509,13 +512,13 @@
     "small": {
       "family": "General Sans",
       "tracking": "-0.005rem",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "0rem",
       "size": "0.5rem"
     },
     "large": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "1.25rem",
       "size": "0.875rem",
       "tracking": "-0.015rem"
@@ -524,7 +527,7 @@
       "family": "General Sans",
       "size": "0.75rem",
       "height": "1rem",
-      "weight": "medium",
+      "weight": "31.25rem",
       "tracking": "-0.015rem"
     }
   },
@@ -532,7 +535,7 @@
     "large": {
       "family": "General Sans",
       "tracking": "0.005rem",
-      "weight": "regular",
+      "weight": "25rem",
       "height": "1.75rem",
       "size": "1.125rem"
     },
@@ -540,7 +543,7 @@
       "family": "General Sans",
       "tracking": "0.005rem",
       "size": "0.875rem",
-      "weight": "regular",
+      "weight": "25rem",
       "height": "1.25rem"
     },
     "medium": {
@@ -548,13 +551,13 @@
       "height": "1.5rem",
       "size": "1rem",
       "tracking": "0.005rem",
-      "weight": "regular"
+      "weight": "25rem"
     }
   },
   "display": {
     "large": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "37.5rem",
       "size": "3.5rem",
       "height": "4rem",
       "tracking": "-0.015rem"
@@ -562,29 +565,29 @@
     "small": {
       "family": "General Sans",
       "size": "2.5rem",
-      "weight": "medium",
+      "weight": "37.5rem",
       "height": "3rem",
-      "tracking": "-0.015rem"
+      "tracking": "-0.005rem"
     },
     "medium": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "37.5rem",
       "size": "3rem",
-      "height": "3.5rem",
-      "tracking": "-0.015rem"
+      "height": "3.25rem",
+      "tracking": "-0.005rem"
     }
   },
   "title": {
     "large": {
       "family": "General Sans",
       "tracking": "0rem",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "1.75rem",
       "size": "1.125rem"
     },
     "small": {
       "family": "General Sans",
-      "weight": "medium",
+      "weight": "31.25rem",
       "height": "1.25rem",
       "size": "0.875rem",
       "tracking": "0rem"
@@ -593,7 +596,7 @@
       "family": "General Sans",
       "tracking": "0rem",
       "height": "1.5rem",
-      "weight": "medium",
+      "weight": "31.25rem",
       "size": "1rem"
     }
   },
