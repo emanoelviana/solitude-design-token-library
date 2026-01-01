@@ -1499,6 +1499,10 @@
       "brand": {
         "value": "{color.primary.600}",
         "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutral.400}",
+        "type": "color"
       }
     },
     "border": {
@@ -1539,6 +1543,10 @@
       "base": {
         "value": "{color.neutral.900}",
         "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutral.400}",
+        "type": "color"
       }
     },
     "background": {
@@ -1576,6 +1584,10 @@
       },
       "brand": {
         "value": "{color.primary.200}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutral.400}",
         "type": "color"
       }
     },
@@ -1616,6 +1628,10 @@
       },
       "base": {
         "value": "{color.neutral.50}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.neutral.400}",
         "type": "color"
       }
     },
